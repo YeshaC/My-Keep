@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Header_div{
+    background-color: rgb(141, 141, 22);
+    color:white;
+    padding: 0.5%;
+}
+
+.username{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+   
+.login{
+    margin-left: 30px;
+    margin-right: 10px;
+}
