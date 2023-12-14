@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/My-Keep/static/css/main.c5421b10.css",
+    "main.js": "/My-Keep/static/js/main.550bd460.js",
+    "index.html": "/My-Keep/index.html",
+    "main.c5421b10.css.map": "/My-Keep/static/css/main.c5421b10.css.map",
+    "main.550bd460.js.map": "/My-Keep/static/js/main.550bd460.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5421b10.css",
+    "static/js/main.550bd460.js"
+  ]
+}
